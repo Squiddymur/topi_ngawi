@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ngawi Hat</string>
+    <string name="content_text">Ngawi Goverment officially announced its much-anticipated Hat; the Ngawi Hat, on October 4. We attended Ngawi`s  event, mirroring the main one taking place in Ngawi, Indonesia, where the firm unwrapped the new Indonesia Treasure which will apparently usurp Indonesian’s long-standing Borobudor National Treasure.</string>
+    <string name="content_specs_display">Blue Color\n
+        Customable Head Size\n
+        Very Soft and Light Fabric</string>
+    <string name="content_specs_size">Diameter 15-20 cm</string>
+    <string name="content_specs_battery">Customable head size\n
+        Soft and light fabric\n
+        Strong fabric so it wont easy to rip\n
+        Cool design\n
+        Fit very well with or without clothes\n
+        Make you become the Ngawi family\n
+        Got invitation card from Rusdi Ngawi\n
+        Will be served by Si Imut</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Keunggulan</string>
+    <string name="display">Detail</string>
+    <string name="size">Ukuran</string>
+    <string name="battery">Bonus</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Si Imut</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$690</string>
+    <string name="dummy_photos">6 photos</string>
+</resources>
